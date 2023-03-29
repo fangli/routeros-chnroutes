@@ -4,6 +4,9 @@ name: Trigger chnroute builds
 on:
   schedule:
     - cron: '17 5 8 * *'
+  push:
+    branches:
+      - 'main'
 jobs:
   build:
     name: Update chnroute list
