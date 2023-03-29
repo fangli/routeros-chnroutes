@@ -3,7 +3,7 @@ name: Trigger chnroute builds
 
 on:
   schedule:
-    - cron: '17 5 8 * *'
+    - cron: '17 5 * * 3'
   push:
     branches:
       - 'main'
