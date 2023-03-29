@@ -14,7 +14,6 @@ jobs:
     steps:
       - uses: actions/checkout@master
         with:
-          persist-credentials: false
           fetch-depth: 0
       - name: Update the chnroutes.rsc
         run: curl -s https://raw.githubusercontent.com/pmkol/easymosdns/rules/china_ip_list.txt |sed -e 's/^/add address=/g' -e 's/$/ list=chnroutes/g'|sed -e $'1i\\\n/ip firewall address-list' -e $'1i\\\nremove [/ip firewall address-list find list=chnroutes]' > chnroutes.rsc
