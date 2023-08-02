@@ -6193,6 +6193,7 @@ add address=2001:df2:180::/48 list=chnroutes
 add address=2001:df2:5780::/48 list=chnroutes
 add address=2001:df2:8bc0::/48 list=chnroutes
 add address=2001:df2:a580::/48 list=chnroutes
+add address=2001:df2:c240::/48 list=chnroutes
 add address=2001:df3:1480::/48 list=chnroutes
 add address=2001:df3:2a80::/48 list=chnroutes
 add address=2001:df3:3a80::/48 list=chnroutes
@@ -6572,7 +6573,9 @@ add address=2401:1ac0::/32 list=chnroutes
 add address=2401:1c60::/32 list=chnroutes
 add address=2401:1ce0::/32 list=chnroutes
 add address=2401:1d40::/32 list=chnroutes
+add address=2401:1da0::/32 list=chnroutes
 add address=2401:1dc0::/32 list=chnroutes
+add address=2401:1de0::/32 list=chnroutes
 add address=2401:1e00::/32 list=chnroutes
 add address=2401:1ec0::/32 list=chnroutes
 add address=2401:1f40::/32 list=chnroutes
