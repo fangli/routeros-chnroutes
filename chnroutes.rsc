@@ -3913,7 +3913,7 @@ add address=125.208.0.0/19 list=chnroutes
 add address=125.208.32.0/23 list=chnroutes
 add address=125.208.37.0/24 list=chnroutes
 add address=125.208.40.0/24 list=chnroutes
-add address=125.208.42.0/23 list=chnroutes
+add address=125.208.42.0/24 list=chnroutes
 add address=125.208.45.0/24 list=chnroutes
 add address=125.208.46.0/23 list=chnroutes
 add address=125.208.48.0/20 list=chnroutes
@@ -6946,7 +6946,6 @@ add address=2402:ef40::/32 list=chnroutes
 add address=2402:ef80::/32 list=chnroutes
 add address=2402:f000::/32 list=chnroutes
 add address=2402:f140::/32 list=chnroutes
-add address=2402:f3c0::/32 list=chnroutes
 add address=2402:f480::/32 list=chnroutes
 add address=2402:f540::/32 list=chnroutes
 add address=2402:f580::/32 list=chnroutes
