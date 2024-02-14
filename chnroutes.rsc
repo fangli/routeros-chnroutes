@@ -4668,6 +4668,7 @@ add address=172.226.180.96/27 list=chnroutes
 add address=172.226.180.128/27 list=chnroutes
 add address=172.226.214.64/27 list=chnroutes
 add address=173.39.200.0/23 list=chnroutes
+add address=174.139.171.0/24 list=chnroutes
 add address=175.0.0.0/12 list=chnroutes
 add address=175.16.0.0/13 list=chnroutes
 add address=175.24.0.0/14 list=chnroutes
@@ -6709,6 +6710,7 @@ add address=2001:df3:1480::/48 list=chnroutes
 add address=2001:df3:15c0::/48 list=chnroutes
 add address=2001:df3:2a80::/48 list=chnroutes
 add address=2001:df3:3a80::/48 list=chnroutes
+add address=2001:df3:7440::/48 list=chnroutes
 add address=2001:df3:a680::/48 list=chnroutes
 add address=2001:df3:b380::/48 list=chnroutes
 add address=2001:df3:c380::/48 list=chnroutes
