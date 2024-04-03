@@ -4501,6 +4501,7 @@ add address=147.243.30.64/26 list=chnroutes
 add address=147.243.30.128/27 list=chnroutes
 add address=147.243.103.0/25 list=chnroutes
 add address=148.70.0.0/16 list=chnroutes
+add address=149.127.128.0/21 list=chnroutes
 add address=150.0.0.0/16 list=chnroutes
 add address=150.115.0.0/16 list=chnroutes
 add address=150.121.0.0/16 list=chnroutes
@@ -7182,6 +7183,7 @@ add address=2401:8820::/31 list=chnroutes
 add address=2401:8840::/32 list=chnroutes
 add address=2401:8be0::/32 list=chnroutes
 add address=2401:8d00::/32 list=chnroutes
+add address=2401:8da0::/32 list=chnroutes
 add address=2401:8f40::/32 list=chnroutes
 add address=2401:8fc0::/32 list=chnroutes
 add address=2401:9340::/32 list=chnroutes
