@@ -469,6 +469,7 @@ add address=43.224.216.0/22 list=chnroutes
 add address=43.224.240.0/23 list=chnroutes
 add address=43.224.242.0/24 list=chnroutes
 add address=43.225.76.0/22 list=chnroutes
+add address=43.225.84.0/23 list=chnroutes
 add address=43.225.86.0/24 list=chnroutes
 add address=43.225.120.0/22 list=chnroutes
 add address=43.225.180.0/22 list=chnroutes
@@ -1173,7 +1174,6 @@ add address=93.113.109.136/29 list=chnroutes
 add address=93.183.14.0/24 list=chnroutes
 add address=93.183.18.0/24 list=chnroutes
 add address=94.191.0.0/17 list=chnroutes
-add address=98.126.78.0/24 list=chnroutes
 add address=101.0.0.0/22 list=chnroutes
 add address=101.1.0.0/22 list=chnroutes
 add address=101.2.172.0/22 list=chnroutes
@@ -5014,6 +5014,7 @@ add address=202.22.248.0/21 list=chnroutes
 add address=202.27.12.0/24 list=chnroutes
 add address=202.27.14.0/24 list=chnroutes
 add address=202.27.136.0/23 list=chnroutes
+add address=202.30.124.0/24 list=chnroutes
 add address=202.36.226.0/24 list=chnroutes
 add address=202.38.0.0/22 list=chnroutes
 add address=202.38.8.0/21 list=chnroutes
@@ -6789,7 +6790,6 @@ add address=2001:df4:a980::/48 list=chnroutes
 add address=2001:df4:c180::/48 list=chnroutes
 add address=2001:df4:c580::/48 list=chnroutes
 add address=2001:df4:c780::/48 list=chnroutes
-add address=2001:df4:cf00::/48 list=chnroutes
 add address=2001:df4:de80::/48 list=chnroutes
 add address=2001:df5:2080::/48 list=chnroutes
 add address=2001:df5:5f80::/48 list=chnroutes
@@ -7161,7 +7161,7 @@ add address=2401:3380::/32 list=chnroutes
 add address=2401:33c0::/32 list=chnroutes
 add address=2401:3440::/32 list=chnroutes
 add address=2401:3480::/32 list=chnroutes
-add address=2401:34a0::/31 list=chnroutes
+add address=2401:34a0::/30 list=chnroutes
 add address=2401:34c0::/32 list=chnroutes
 add address=2401:3640::/32 list=chnroutes
 add address=2401:3780::/32 list=chnroutes
@@ -7247,6 +7247,7 @@ add address=2401:9260::/32 list=chnroutes
 add address=2401:92a0::/32 list=chnroutes
 add address=2401:92e0::/32 list=chnroutes
 add address=2401:9340::/32 list=chnroutes
+add address=2401:95e0::/32 list=chnroutes
 add address=2401:9600::/32 list=chnroutes
 add address=2401:96c0::/32 list=chnroutes
 add address=2401:9740::/32 list=chnroutes
