@@ -2627,6 +2627,7 @@ add address=103.177.162.0/24 list=chnroutes
 add address=103.178.240.0/23 list=chnroutes
 add address=103.179.76.0/22 list=chnroutes
 add address=103.180.226.0/23 list=chnroutes
+add address=103.181.164.0/23 list=chnroutes
 add address=103.181.234.0/23 list=chnroutes
 add address=103.183.26.0/23 list=chnroutes
 add address=103.183.66.0/23 list=chnroutes
