@@ -104,7 +104,7 @@ add address=14.192.76.0/22 list=chnroutes
 add address=14.196.0.0/15 list=chnroutes
 add address=14.204.0.0/15 list=chnroutes
 add address=14.208.0.0/12 list=chnroutes
-add address=14.238.34.0/24 list=chnroutes
+add address=14.241.232.0/21 list=chnroutes
 add address=14.255.16.0/24 list=chnroutes
 add address=14.255.238.0/24 list=chnroutes
 add address=14.255.254.0/24 list=chnroutes
@@ -2670,7 +2670,6 @@ add address=103.177.162.0/24 list=chnroutes
 add address=103.178.240.0/23 list=chnroutes
 add address=103.179.76.0/22 list=chnroutes
 add address=103.180.226.0/23 list=chnroutes
-add address=103.181.164.0/23 list=chnroutes
 add address=103.181.234.0/23 list=chnroutes
 add address=103.183.26.0/23 list=chnroutes
 add address=103.183.66.0/23 list=chnroutes
@@ -4880,6 +4879,7 @@ add address=125.208.0.0/19 list=chnroutes
 add address=125.208.32.0/22 list=chnroutes
 add address=125.208.36.0/23 list=chnroutes
 add address=125.208.40.0/24 list=chnroutes
+add address=125.208.42.0/24 list=chnroutes
 add address=125.208.45.0/24 list=chnroutes
 add address=125.208.46.0/23 list=chnroutes
 add address=125.208.48.0/24 list=chnroutes
@@ -5249,7 +5249,6 @@ add address=168.159.152.0/22 list=chnroutes
 add address=168.159.156.0/23 list=chnroutes
 add address=168.159.158.0/24 list=chnroutes
 add address=168.160.0.0/16 list=chnroutes
-add address=168.235.241.0/24 list=chnroutes
 add address=170.179.0.0/16 list=chnroutes
 add address=171.8.0.0/13 list=chnroutes
 add address=171.34.0.0/15 list=chnroutes
@@ -7944,7 +7943,9 @@ add address=2402:5180::/32 list=chnroutes
 add address=2402:51a0::/32 list=chnroutes
 add address=2402:52c0::/32 list=chnroutes
 add address=2402:5340::/32 list=chnroutes
+add address=2402:5820::/32 list=chnroutes
 add address=2402:5880::/32 list=chnroutes
+add address=2402:5920::/32 list=chnroutes
 add address=2402:5940::/32 list=chnroutes
 add address=2402:59c0::/32 list=chnroutes
 add address=2402:5a40::/32 list=chnroutes
@@ -8827,7 +8828,6 @@ add address=2406:3280::/32 list=chnroutes
 add address=2406:3300::/32 list=chnroutes
 add address=2406:3340::/32 list=chnroutes
 add address=2406:3380::/32 list=chnroutes
-add address=2406:3440::/32 list=chnroutes
 add address=2406:3480::/32 list=chnroutes
 add address=2406:34c0::/32 list=chnroutes
 add address=2406:3580::/32 list=chnroutes
