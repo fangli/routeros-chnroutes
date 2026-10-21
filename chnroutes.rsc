@@ -3513,7 +3513,6 @@ add address=104.212.68.58/32 list=chnroutes
 add address=104.212.68.102/32 list=chnroutes
 add address=104.212.68.151/32 list=chnroutes
 add address=104.212.68.152/32 list=chnroutes
-add address=104.251.176.0/22 list=chnroutes
 add address=106.0.0.0/24 list=chnroutes
 add address=106.0.2.0/23 list=chnroutes
 add address=106.0.4.0/22 list=chnroutes
@@ -3558,7 +3557,6 @@ add address=107.148.6.0/24 list=chnroutes
 add address=107.151.212.0/24 list=chnroutes
 add address=107.176.0.0/15 list=chnroutes
 add address=107.190.229.0/24 list=chnroutes
-add address=108.186.72.0/24 list=chnroutes
 add address=109.71.4.0/24 list=chnroutes
 add address=109.244.0.0/16 list=chnroutes
 add address=110.6.0.0/15 list=chnroutes
@@ -5238,7 +5236,6 @@ add address=163.244.246.0/24 list=chnroutes
 add address=164.52.74.0/24 list=chnroutes
 add address=164.52.80.0/24 list=chnroutes
 add address=165.101.70.0/24 list=chnroutes
-add address=165.101.208.0/23 list=chnroutes
 add address=166.111.0.0/16 list=chnroutes
 add address=167.139.0.0/16 list=chnroutes
 add address=167.189.0.0/16 list=chnroutes
@@ -7150,21 +7147,7 @@ add address=222.16.0.0/12 list=chnroutes
 add address=222.32.0.0/11 list=chnroutes
 add address=222.64.0.0/11 list=chnroutes
 add address=222.125.0.0/16 list=chnroutes
-add address=222.126.128.0/21 list=chnroutes
-add address=222.126.136.0/23 list=chnroutes
-add address=222.126.139.0/24 list=chnroutes
-add address=222.126.140.0/22 list=chnroutes
-add address=222.126.144.0/20 list=chnroutes
-add address=222.126.160.0/20 list=chnroutes
-add address=222.126.176.0/29 list=chnroutes
-add address=222.126.178.0/23 list=chnroutes
-add address=222.126.180.0/22 list=chnroutes
-add address=222.126.184.0/21 list=chnroutes
-add address=222.126.192.0/21 list=chnroutes
-add address=222.126.200.0/22 list=chnroutes
-add address=222.126.206.0/23 list=chnroutes
-add address=222.126.208.0/20 list=chnroutes
-add address=222.126.224.0/19 list=chnroutes
+add address=222.126.128.0/17 list=chnroutes
 add address=222.128.0.0/12 list=chnroutes
 add address=222.160.0.0/14 list=chnroutes
 add address=222.167.160.0/23 list=chnroutes
@@ -7987,6 +7970,7 @@ add address=2402:7d00::/32 list=chnroutes
 add address=2402:7d80::/32 list=chnroutes
 add address=2402:7da0::/32 list=chnroutes
 add address=2402:7e20::/32 list=chnroutes
+add address=2402:7ee0::/32 list=chnroutes
 add address=2402:8180::/32 list=chnroutes
 add address=2402:8300::/32 list=chnroutes
 add address=2402:8380::/32 list=chnroutes
